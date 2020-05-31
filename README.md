@@ -1,2 +1,2 @@
 # testrepo
-repo for testing gitgub
+repo for testing gitgub2
